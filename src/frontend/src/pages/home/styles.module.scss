@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css?family=IBM+Plex+Sans');
+
+.backgroundContainer {
+    background-image: linear-gradient(to bottom, #212121, rgba(0, 37, 206, 0.8) 100%);
+    height: 100vh;
+    width: 100vw;
+    z-index: -1000;
+}
+
+
+.tabContainer {
+    height: 30rem;
+}
+
+.footerContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    align-items: center;
+    gap: 1rem;
+}
+
+.title {
+    font-family: 'IBM Plex Sans', regular;
+    font-size: 1.3rem;
+    font-weight: 200;
+    color: white;
+}
+
+.plusBtn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2.5rem 2.5rem;
+    border-radius: 100px;
+    width: 30px;
+    height: 60px;
+    color: black;
+    font-size: 4rem;
+    font-weight: 300;
+    text-align: center;
+    background-color: white;
+    box-shadow: 1px 1px 4px white;
+}

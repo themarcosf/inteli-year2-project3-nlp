@@ -1,0 +1,38 @@
+.profileImage {
+    width: 15%;
+    border-radius: 100px;
+    margin-left: 2rem;
+}
+
+.text {
+    font-family: 'IBM Plex Sans', regular;
+    font-size: 1.8rem;
+    font-weight: 200;
+    color: white;
+    text-align: left;
+}
+
+.headerContainer {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0.8rem;
+    box-shadow: 0px 2px 4px black;
+}
+
+.imageContainer {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 1rem;
+    align-items: center;
+    padding: 0.8rem;
+    box-shadow: 0px 2px 4px black;
+}
+
+.imageContainer {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 1rem;
+}

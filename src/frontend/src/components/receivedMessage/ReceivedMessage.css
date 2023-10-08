@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css?family=IBM+Plex+Sans');
+
+
+#root{
+    height: 100vh;
+    width: 100vw;
+    font-family: 'IBM Plex Sans', regular;
+}
+
+.receivedMessageBG{
+    width: 75%;
+    margin-top: 12px;
+    max-height: 100%;
+    display: flex;
+    justify-content: start;
+}
+
+.ReceivedMessageContent{
+    background-color: #F4F4F4;
+    width: 100%;
+    padding-left: 20px;
+    padding-top: 15px;
+    padding-right: 20px;
+    margin-top: 12px;
+    color: #000;
+    margin-left: 8px;
+    border-radius: 20px 20px 20px 0px;
+    word-wrap: break-word;
+}

@@ -1,0 +1,782 @@
+ 
+
+
+
+
+
+
+
+O que é staking de criptomoedas? - InfoMoney
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+menu
+
+
+Menu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+perm_identity
+
+
+
+Minha conta
+Minhas carteiras
+Sair
+
+
+
+Sua conta
+
+
+perm_identity
+
+
+
+
+
+Busca
+
+
+search
+
+
+
+
+
+
+                    Apple                
+
+                    Investir no Exterior                
+
+                    Seguros                
+
+                    Imersão Renda Extra Imobiliária                
+
+                    Invista no CDB 230 da XP                
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+close
+
+
+
+
+
+
+
+
+search
+
+
+
+
+
+trending_up
+
+                                        Apple                                    
+
+
+trending_up
+
+                                        Investir no Exterior                                    
+
+
+trending_up
+
+                                        Seguros                                    
+
+
+trending_up
+
+                                        Imersão Renda Extra Imobiliária                                    
+
+
+trending_up
+
+                                        Invista no CDB 230 da XP                                    
+
+
+
+
+
+
+
+
+
+
+close
+
+
+
+
+account_circle
+
+
+
+Minha conta
+Minhas carteiras
+Sair
+
+
+
+account_circle
+Entrar
+
+
+
+
+
+trending_up
+Apple
+
+
+trending_up
+Investir no Exterior
+
+
+trending_up
+Seguros
+
+
+trending_up
+Imersão Renda Extra Imobiliária
+
+
+trending_up
+Invista no CDB 230 da XP
+
+
+Notícias
+
+Últimas
+Mercados
+Onde Investir
+Minhas Finanças
+Política
+Economia
+IM Business
+Consumo
+Carreira
+
+
+Cotações
+
+Ibovespa
+Altas e Baixas
+Dólar e Moedas
+Criptos
+BDRs
+ETFs
+FIIs
+Nasdaq
+Nyse
+
+
+Ferramentas
+
+Simulador de Investimentos
+Comparador de FIIs
+Comparador de Renda Fixa
+Comparador de Fundos
+Carteira de Acompanhamento
+Juros Futuros
+Mini Contratos
+Indicadores de Inflação
+Opções de Ações
+Empresas B3
+
+
+Aprenda
+
+Guias
+Cursos
+Perfis
+Ebooks
+Planilhas
+
+
+Canais e Redes
+
+TikTok
+Instagram
+Telegram
+Twitter
+Linkedin
+YouTube
+Facebook
+Newsletter
+Podcasts
+
+
+Colunistas
+
+Walter Maciel
+Luiz Fernando Figueiredo
+Tiago Reis
+Caio Megale
+Fernando Ferreira
+Lucas Collazo
+A Vida dos Traders
+Gustavo Cunha
+Raphael Galante
+Aod Cunha
+Evandro Buccini
+
+
+Money Lab
+
+Inovação
+Investindo no Exterior
+Gestão de Investimentos alternativos
+E-Commerce B2B
+
+
+Quem Somos
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                Guias                            
+
+
+
+                                    Investimentos                                
+
+
+                            Renda Passiva com Criptos                        
+
+
+O que é staking de criptomoedas?
+Staking é uma forma de obter renda passiva com seus investimentos em criptomoedas. Saiba como começar, quais os retornos e riscos envolvidos
+
+
+
+
+                        8/11/2022 18h24                      
+                     •  
+                    
+                        Atualizado há 10 meses                    
+
+
+reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+menu_openTópicos
+
+
+
+Nesta página
+
+
+
+
+Como funciona o staking
+Com quais criptomoedas é possível fazer staking?
+Como começar
+Riscos do staking de criptomoedas
+Como funcionam os retornos
+
+
+
+
+
+
+O Staking oferece aos investidores de criptomoedas uma forma de colocar seus ativos digitais para trabalhar e obter renda passiva sem precisar vendê-los.É como se você colocasse dinheiro em uma poupança, mas de alto rendimento. Isso porque quando você deposita um montante em uma conta poupança, o banco pega esse dinheiro e normalmente o empresta para outras pessoas. Em troca, você recebe juros obtidos com os empréstimos – embora um percentual muito, muito baixo.Da mesma forma, quando você faz staking de seus ativos digitais, você “bloqueia” as moedas para participar da execução da blockchain e contribuir para a sua segurança.Em troca disso, você ganha recompensas calculadas em rendimentos percentuais. Esses retornos costumam ser muito maiores do que qualquer rentabilidade oferecida pelos bancos.Staking virou uma forma muito comum de lucrar com criptomoedas sem negociá-las propriamente. Em abril de 2022, o valor total das criptomoedas em stake ultrapassou o limite de US$ 280 bilhões, de acordo com o provedor de dados Staking Rewards.Como funciona o stakingO staking só é possível por meio do mecanismo de consenso de prova de participação (proof-of-stake, ou PoS), que é um método específico usado por determinadas blockchains para selecionar participantes honestos e verificar novos blocos de dados sendo adicionados à rede.Ao forçar esses participantes da rede – conhecidos como validadores ou “stakers” – a comprarem e reservarem uma certa quantidade de tokens, fica pouco atrativo agir de forma desonesta na rede.CONTINUA DEPOIS DA PUBLICIDADEIsso porque se a blockchain fosse corrompida de alguma forma por meio de atividades maliciosas, o token nativo associado a ela provavelmente cairia de preço e os responsáveis perderiam dinheiro.Por isso, o stake é usado para garantir que os participantes ajam honestamente e para o bem da rede. Em troca de seu compromisso, os validadores recebem recompensas denominadas na criptomoeda nativa.Quanto maior o staking, maior a chance de validar um novo bloco e receber as recompensas. A lógica considera que, quanto mais criptos são alocadas, maior será o risco da operação e, portanto, maior será a probabilidade de o validador em questão ser um participante honesto.Para manter os validadores sob controle, eles podem ser penalizados se cometerem pequenas violações, como ficar offline por longos períodos. Eles podem até ser suspensos do processo de consenso e ter seus recursos removidos. Este último é conhecido como “slashing” e, embora raro, aconteceu em várias blockchains, incluindo Polkadot (DOT) e o próprio Ethereum (ETH).O stake não precisa consistir exclusivamente nas moedas de uma única pessoa. Na maioria das vezes, os validadores executam um “staking pool” e arrecadam fundos de um grupo de detentores de tokens por meio de delegação (agindo em nome de outros). Isso reduz a barreira de entrada para que mais usuários participem do staking.CONTINUA DEPOIS DA PUBLICIDADEQualquer titular pode participar do processo de staking, delegando suas moedas a operadores de staking que fazem todo o trabalho pesado envolvido na validação de transações na blockchain.Cada blockchain tem seu próprio conjunto de regras para validadores. A rede Terra (LUNA), por exemplo, que colapsou em 2022, limitou em 130 o número máximo de validadores. A proof-of-stake do Ethereum (ETH) – anteriormente conhecida como Ethereum 2.0 – exige que cada validador deposite pelo menos 32 ETH, o que equivale a mais de US$ 100 mil.Com quais criptomoedas é possível fazer staking?Como mencionado acima, o staking só é possível com criptomoedas vinculadas a blockchains que usam o mecanismo de consenso de prova de participação (PoS). Dentre as principais que podem ser usadas estão:Ethereum (ETH);Cardano (ADA);Solana (SOL);Avalanche (AVAX);Polkadot (DOT);Antes da atualização “Merge” (Fusão, em português), o Ethereum mantém em uma situação peculiar, porque permite tanto “minerar” quanto fazer staking.Isso acontece porque a segunda maior criptomoeda por valor de mercado planeja mudar seu sistema blockchain, saindo do mecanismo de prova de trabalho (proof-of-work, PoW) para o de prova de participação (proof-of-stake, ou PoS). Com isso, ambos os tipos de processos de validação estão funcionando simultaneamente.CONTINUA DEPOIS DA PUBLICIDADEEventualmente, contudo, a mineração de ETH será completamente eliminada à medida que o novo sistema, mais eficiente energeticamente, assuma o controle.Como começarPara começar, é preciso primeiro possuir ativos digitais que podem ser utilizados para stake. Se você já tem algumas criptos, terá que transferir as moedas da exchange ou do aplicativo em que as comprou para uma conta que permita o staking.A maioria das grandes exchanges de criptomoedas, como Coinbase, Binance e Kraken, oferece oportunidades de staking internamente em sua plataforma, facilitando a obtenção de renda passiva com elas.Se você está buscando formas de ampliar os retornos, existem plataformas especializadas que pagam os maiores retornos para seus ativos digitais. Alguns exemplos dessas plataformas de staking incluem:EverStake;BlockDaemon;Figment;MyContainer;Vale destacar que quaisquer moedas que você delegar para um “staking pool” ainda estarão em sua posse. Você pode sempre retirar seus ativos do staking – desde que respeitado o tempo mínimo (de dias ou semanas) definidos por cada blockchain.CONTINUA DEPOIS DA PUBLICIDADETambém é possível se tornar um validador e administrar seu próprio staking pool. Mas, para isso, é preciso muito mais atenção, experiência e investimento para ter sucesso. Até porque, para se tornar um validador em certas blockchains, é preciso ter criptos suficientes delegadas por outras pessoas antes mesmo de começar.Riscos do staking de criptomoedasComo em qualquer tipo de investimento, principalmente em criptomoedas, há riscos que devem ser considerados:Primeiro: as criptomoedas são voláteis. Quedas nos preços podem facilmente superar as recompensas que você ganha. Por isso, o staking é ideal para quem planeja manter os ativos a longo prazo, independentemente das oscilações de preço;Algumas moedas exigem um período mínimo de bloqueio, em que não é possível retirar os ativos do staking;Se você decidir retirar seus ativos de um staking pool, deverá respeitar o período de espera determinado por cada blockchain;Há um risco relacionado ao operador de staking pool. Se o validador não fizer seu trabalho corretamente e for penalizado, você pode perder as recompensas;Staking pools podem também ser hackeados, resultando em uma perda total do montante que estava em staking. E como os ativos não são protegidos por nenhum tipo de seguro, isso significa que há pouca ou nenhuma esperança de compensação das perdas.Como funcionam os retornosO staking é uma boa opção para investidores que querem ter rendimentos com seus investimentos de longo prazo e não se preocupam com as oscilações de preço no curto prazo.De acordo com dados do mercado, a taxa média de recompensa de staking dos 261 principais ativos de staking ultrapassa um rendimento anual de 11%. É importante notar, porém, que as recompensas podem mudar ao longo do tempo.Além disso, taxas cobradas pelas exchanges podem afetar os retornos, assim como nos investimentos tradicionais. Staking pools deduzem as taxas cobradas das recompensas, o que afeta os rendimentos percentuais. Isso varia muito de pool para pool e de blockchain para blockchain.CONTINUA DEPOIS DA PUBLICIDADEÉ possível ampliar as recompensas escolhendo um staking pool com baixas taxas de administração e um histórico promissor de validação, que inclua muitos blocos. Este último também minimiza o risco de o pool ser penalizado ou suspenso do processo de validação.
+
+Relacionados
+ 
+
+
+                    Investimentos                
+
+                    Onde Investir                
+
+                    Criptos                
+
+                    Ethereum                
+
+                    Renda passiva                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mais Guias
+
+
+
+
+
+ 
+
+
+
+
+Índice Small Cap (SMLL): o que é e como funciona
+
+
+                                            6 set 2023                                        
+
+
+
+
+
+
+
+ 
+
+
+macroeconomia
+
+Tripé macroeconômico: o que é e qual a sua importância
+
+
+                                            31 ago 2023                                        
+
+
+
+
+
+
+
+ 
+
+
+Fundos Imobiliários
+
+Subscrição de FII: o que é e como funciona
+
+
+                                            24 ago 2023                                        
+
+
+
+
+
+
+
+ 
+
+
+Aliança econômica
+
+O que é BRICS e qual a importância do grupo para a economia
+
+
+                                            21 ago 2023                                        
+
+
+
+
+
+
+
+ 
+
+
+Projeto do Banco Central
+
+Guia sobre o Drex: o que é e como funciona o Real Digital
+
+
+                                            16 ago 2023                                        
+
+
+
+
+
+
+
+ 
+
+
+Reforma tributária
+
+IVA: o que é e como vai funcionar o Imposto sobre Valor Agregado
+
+
+                                            9 ago 2023                                        
+
+
+
+
+
+
+
+ 
+
+
+Renda fixa
+
+Tesouro Educa+: tudo sobre o título público para planejar o pagamento dos estudos
+
+
+                                            7 ago 2023                                        
+
+
+
+
+
+
+
+ 
+
+
+Herança
+
+Planejamento sucessório: conheça a importância e saiba como fazer
+
+
+                                            4 ago 2023                                        
+
+
+
+
+
+
+
+ 
+
+
+Taxa básica de juros
+
+Taxa Selic: O que é, para que serve e como influencia seus investimentos
+
+
+                                            2 ago 2023                                        
+
+
+
+
+
+
+
+ 
+
+
+Juros dos EUA
+
+Como investir na renda fixa americana?
+
+
+                                            27 jul 2023                                        
+
+
+
+
+Mais guias
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Notícias
+
+Mercados
+Onde investir
+Minhas Finanças
+Negócios
+Economia
+Política
+Carreira
+Consumo
+WebStories
+
+
+Aprenda
+
+Guias
+Cursos
+Perfis
+Ebooks
+Planilhas
+
+
+Cotações
+
+Ibovespa
+Altas e Baixas
+Dólar e câmbio
+BDRs
+ETFs
+FIIs
+Criptoativos
+Nasdaq
+Nyse
+
+
+Ferramentas
+
+Simulador de Investimentos
+Comparador de FIIs
+Comparador de Renda Fixa
+Comparador de Fundos
+Juros Futuros
+Opções de Ações
+Minicontratos
+Índices de Inflação
+Carteira de Acompanhamento
+Fatos Relevantes
+Empresas B3
+Agendas
+
+
+Siga
+
+Newsletter
+Podcasts
+
+
+ 
+
+
+
+
+Cadastre-se
+Quem Somos
+Media Kit
+Tabela de preços MoneyLab
+Cases de sucesso
+Política de Privacidade
+Política de cookies
+Preferências de cookies
+Fale conosco
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+© 2000-2023 InfoMoney. Todos os direitos reservados.
+O InfoMoney preza a qualidade da informação e atesta a apuração de todo o conteúdo produzido por sua equipe, ressaltando, no entanto, que não faz qualquer tipo de recomendação de investimento, não se responsabilizando por perdas, danos (diretos, indiretos e incidentais), custos e lucros cessantes.
+IMPORTANTE: O portal www.infomoney.com.br (o "Portal") é de propriedade da Infostocks Informações e Sistemas Ltda. (CNPJ/MF nº 03.082.929/0001-03) ("Infostocks"), sociedade controlada, indiretamente, pela XP Controle Participações S/A (CNPJ/MF nº 09.163.677/0001-15), sociedade holding que controla as empresas do XP Inc. O XP Inc tem em sua composição empresas que exercem atividades de: corretoras de valoresmobiliários, banco, seguradora, corretora de seguros, análise de investimentos de valores mobiliários, gestoras de recursos de terceiros. Apesar de as Sociedades XP estarem sob controle comum, os executivos responsáveis pela Infostocks são totalmente independentes e as notícias, matérias e opiniões veiculadas no Portal não são, sob qualquer aspecto, direcionadas e/ou influenciadas por relatórios de análise produzidos por áreas técnicas das empresas do XP Inc, nem por decisões comerciais e de negócio de tais sociedades, sendo produzidos de acordo com o juízo de valor e as convicções próprias da equipe interna da Infostocks.
+                        
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

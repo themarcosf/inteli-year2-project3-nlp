@@ -1,0 +1,118 @@
+@use '@carbon/react';
+@import url('https://fonts.googleapis.com/css?family=IBM+Plex+Sans');
+
+.errorVisible {
+    color: red;
+    /* Define a cor do texto como vermelho */
+    /* Outros estilos de erro, se necessário */
+}
+
+.titleContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    justify-content: center;
+    z-index: 100;
+    padding-left: 2rem;
+    margin-bottom: 5rem;
+    padding-top: 2rem;
+}
+
+.subtitle {
+    margin-top: 30px;
+    font-family: 'IBM Plex Sans', regular;
+    font-size: 0.8rem;
+    font-weight: 300;
+    color: white;
+    line-height: 1.8rem;
+    padding: 3rem 0px 3rem 0px;
+}
+
+.title {
+    font-family: 'IBM Plex Sans', regular;
+    font-size: 1.8rem;
+    font-weight: 200;
+    color: white;
+}
+
+.backgroundContainer {
+    background-color: black;
+    height: 100vh;
+    width: 100vw;
+    z-index: -1000;
+}
+
+.svgImage {
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    position: absolute;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+}
+
+.link {
+    color: white;
+    font-family: "IBM Plex Sans", regular;
+    font-size: 0.8rem;
+    font-weight: 700;
+    text-decoration: none;
+}
+
+.inputMain {
+    width: 80%;
+}
+
+/* .divEye {
+    width: 100%;
+    flex-direction: row;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+
+.btnEye {
+    width: 20px;
+    height: 20px;
+    border: none;
+    background-color: transparent;
+    outline: 0;
+    box-shadow: none;
+    padding: 0;
+    position: absolute;
+    right: 15px;
+    top: 8px;
+    margin-top: 0;
+} */
+
+.inputContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 2rem;
+    z-index: 100;
+}
+
+.headerContainer {
+    display: flex;
+    justify-content: end;
+    padding: 1.5rem;
+}
+
+.footerContainer {
+    margin-top: 4rem;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.linkContainer {
+    width: 80%;
+}
